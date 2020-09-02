@@ -3,7 +3,7 @@
 Project developed to connect teachers and students in [Next Level Week #2 - Rocketseat](https://rocketseat.com.br/)
 
 <h1 align="center">
-  <img height="100" alt="Proffy" src="./docs/design.png">
+  <img alt="Proffy" src="./docs/design.png">
 </h1>
 
 ## 🚀 Index
