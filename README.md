@@ -1,6 +1,6 @@
 ## Proffy | Next Level Week #2
 
-Project web and mobile developed at the event [Next Level Week #2 - Rocketseat](https://rocketseat.com.br/) to connect teachers and students.
+Web and mobile project developed at the event [Next Level Week #2 - Rocketseat](https://rocketseat.com.br/) to connect teachers and students.
 
 <h1 align="center">
   <img alt="Proffy" src="./docs/design.png">
