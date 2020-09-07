@@ -57,4 +57,16 @@ Web and mobile project developed at the event [Next Level Week #2 - Rocketseat](
     # Running web project
     npm start
   ```
+
+  > Running mobile project
+  ```bash
+    # Accessing mobile project
+    cd mobile
+    
+    # Install dependencies
+    npm i
+
+    # Running mobile project
+    npm start
+  ```
 ---
