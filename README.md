@@ -42,6 +42,9 @@ Web and mobile project developed at the event [Next Level Week #2 - Rocketseat](
     # Install dependencies
     npm i
 
+    # Optional: setting up the database and creating the tables.
+    npm knex:migrate 
+
     # Running server project
     npm start 
   ```
