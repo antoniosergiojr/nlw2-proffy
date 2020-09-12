@@ -10,11 +10,12 @@ Web and mobile project developed at the event [Next Level Week #2 - Rocketseat](
 - ⚙ [Settings](#-settings)
 - 💻 [Technologies](#-technologies)
 - 🚀 [How to run](#-how-to-run)
-
 ---
+
 ## ⚙ Settings
   - [Setting up the environment](https://www.notion.so/Configurando-Ambiente-NLW-98a471ad3cb6448284b8ceed31c45767)
   - [Layout and features](https://www.notion.so/Vers-o-2-0-Proffy-eefca1b981694cd0a895613bc6235970)
+---
 
 ## 💻 Technologies
     - Typescript
