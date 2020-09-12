@@ -32,7 +32,7 @@ Web and mobile project developed at the event [Next Level Week #2 - Rocketseat](
   > Cloning the repository
   ```bash
     # Cloning repository
-    git clone https://github.com/antoniosergiojr/nlw2-proffy.git
+    git clone https://github.com/antoniosergiojr/nlw2_proffy.git
   ```
 
 > Running server project (API - http://localhost:3333)
